@@ -11,7 +11,7 @@ For fitness function Gaussian naïve bayes is used in order to find fitness for 
 I used [this toolbox for implementing Genetic Algorithm ](https://deap.readthedocs.io/en/master/api/algo.html) for implementing Genetic Algorithm.
 # Result
 
-[Image1](https://github.com/sepehrasgarian/Dimensionality-Reduction-Using-Genetic-Algorithms/blob/master/Results/0.3.png)
+![Image1](https://github.com/sepehrasgarian/Dimensionality-Reduction-Using-Genetic-Algorithms/blob/master/Results/0.3.png)
 
 
 
